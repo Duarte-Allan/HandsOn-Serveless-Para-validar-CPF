@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "HandsOn_Serveless_Para_validar_CPF": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7146",
+      "launchBrowser": false
+    }
+  }
+}
